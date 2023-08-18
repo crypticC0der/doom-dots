@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: monobehavior
+# uuid:
+# key: trigger-key
+# condition: t
+# --
+
+
+public class $0 : MonoBehaviour{
+
+}

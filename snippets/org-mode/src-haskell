@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: src-haskell
+# key: hasrc
+# condition: t
+# --
+
+
+#+begin_src haskell :results output :tangle yes :set prompt ""
+:{
+`%`$0
+
+:}
+#+end_src

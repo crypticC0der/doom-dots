@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: org-todo
+# uuid:
+# key: trigger-key
+# condition: t
+# --
+
+* TODO $0 :tags:
+DEADLINE: <2022-05-06>
+SCHEDULED: <2022-05-06>
+:PROPERTIES:
+:EFFORT: 1h
+:COST:
+:END:

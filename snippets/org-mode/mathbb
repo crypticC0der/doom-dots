@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: mathbb
+# uuid:
+# key: trigger-key
+# condition: t
+# --
+\mathbb{$1}

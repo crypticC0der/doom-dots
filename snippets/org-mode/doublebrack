@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: double brack
+# uuid:
+# key: trigger-key
+# condition: t
+# --
+
+\mathopen{\lbrack\!\lbrack} $0 \mathopen{\rbrack\!\rbrack}
