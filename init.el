@@ -108,6 +108,7 @@
        upload            ; map local to remote projects via ssh/ftp
 
        :os
+       tty
        (:if IS-MAC macos)  ; improve compatibility with macOS
 
        :lang

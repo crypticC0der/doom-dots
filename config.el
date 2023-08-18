@@ -41,9 +41,6 @@
 (setq global-whitespace-mode `t)
 (setq whitespace-style `trailing)
 (setq whitespace-mode `t)
-(load! "~/.doom.d/slack.el")
-(setq slack-render-image-p `t)
-(load-file "~/.emacs.d/.local/straight/repos/discord-emacs.el/discord-emacs.el")
 (setq doom-modeline-major-mode-icon t)
 (setq doom-modeline-buffer-state-icon t)
 (setq doom-modeline-enable-word-count t)
@@ -51,7 +48,6 @@
 (setq doom-modeline-buffer-encoding t)
 (setq doom-modeline-lsp t)
 (setq doom-modeline-modal-icon nil)
-(discord-emacs-run "384815451978334208")
 (setq-default major-mode 'org-mode)
 (setq-default tab-width 4)
 
